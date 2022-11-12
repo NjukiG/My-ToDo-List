@@ -7,4 +7,4 @@ If you dont intend on undertaking a task, you are able to delete it from the lis
 
 To run this app on your localhost, just install the dependencies with npm install and then run npm start.
 
-The deployed link can be found in: 
+The deployed link can be found in: https://effervescent-llama-4125dd.netlify.app/
