@@ -1,0 +1,25 @@
+.todo-task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px auto;
+    color: white;
+    background-color: black;
+    padding: 16px;
+    border-radius: 5px;
+    width: 90%;
+    box-shadow: 0 5px 5px rgb(207, 194, 4);
+  }
+
+  .buttons{
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+    padding-left: 20px;
+  }
+
+  .complete {
+    text-decoration: line-through;
+  }
+  
